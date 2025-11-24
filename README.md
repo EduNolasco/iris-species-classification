@@ -41,7 +41,7 @@ Iris Dataset – UCI Machine Learning Repository
 https://www.kaggle.com/datasets/uciml/iris
 
 ## Video presentación
-(Agrega aquí el link del video cuando lo subas)
+(https://youtu.be/GmO5XS7390M)
 
 ## Autores
 Eduardo Nolasco Gòmez
